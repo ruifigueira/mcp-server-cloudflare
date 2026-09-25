@@ -1,0 +1,25 @@
+apps/browser-rendering/package.json
+  s_f85c72d471d6e1::t_533a4ca64cf115 21-22
+apps/browser-rendering/src/browser.tools.spec.ts
+  s_f85c72d471d6e1::t_d2efe638825b60 1-193
+apps/browser-rendering/src/tools/browser.tools.ts
+  s_f85c72d471d6e1::t_2d360b0b4e21c0 8-36,44,51-59,66,91,98-106,144,152,157,194,202,206,246,253-261,309,316-325,364,371-381,415,422-433,470-472,476-487,491-503,542,544,580,582,618,620-621
+pnpm-lock.yaml
+  s_f85c72d471d6e1::t_abc9bf93bbef20 178-183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9cbf74ee7b43c77399313078a17f229d6cefa74a",
+  "prompts": {},
+  "sessions": {
+    "s_f85c72d471d6e1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f27f3b159ffeCFNKAo7eSp3ZD0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rui Figueira <rfigueira@cloudflare.com>"
+    }
+  }
+}
